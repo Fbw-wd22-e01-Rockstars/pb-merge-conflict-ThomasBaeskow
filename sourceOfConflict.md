@@ -1,4 +1,4 @@
- ![banner](img/conflict.png.jpg)
+ ![banner](./img/castle.jpg)
 
  # Lorem ipsum sic header
 
@@ -7,7 +7,7 @@
 * bullet
 * points
 
-*Some new staff
+*Some new staff and mooooooooooooooooooooooooooooooooooooooooooore new stuff
 
 <p> There in no bug in this file</p>
 
